@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"INCO_TIPO",
+				"INCO_TIPO_TSSE"
+			],
+			[
+				"blo",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "sql",
+		"selected_items":
+		[
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"text",
+				"Set Syntax: Textile"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakge",
+				"Install Package Control"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javsac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"csh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/MICRODATA/Documents/EAO/WA/src/demoDjango/demoDjango"
+	],
+	"file_history":
+	[
+		"/C/Users/MICRODATA/Documents/EAO/WA/src/demoDjango/demoDjango/demoDjango/__init__.py",
+		"/C/Users/MICRODATA/Documents/EAO/WA/src/demoDjango/demoDjango/manage.py",
+		"/C/Users/MICRODATA/Documents/EAO/WA/src/demoDjango/demoDjango/demoDjango/urls.py",
+		"/C/Users/MICRODATA/Documents/EAO/WA/src/demoDjango/demoDjango/demoDjango/wsgi.py",
+		"/C/Users/MICRODATA/Documents/EAO/WA/src/demoDjango/demoDjango/demoDjango/settings.py",
+		"/C/BACKUP_BASE_27102017/DBSIRH_10201711/DBSIRH_201711.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src1_remote/trunk/v0/LPO.Operations/LPO.Operations.Web/LPO.Operations.Web.csproj",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src1_remote/trunk/v0/LPO.Operations/LPO.Operations.Web/Web.config",
+		"/C/Users/MICRODATA/Downloads/LPOMVCApp (1).PublishSettings",
+		"/C/Users/MICRODATA/Documents/EAO/ANTPSTORAGE/src/trunk/ANTP.StorageMap/ANTP.StorageMap.Web/Content/variables.scss",
+		"/C/Users/MICRODATA/Documents/EAO/ANTPSTORAGE/src/trunk/ANTP.StorageMap/ANTP.StorageMap.Web/Content/kendo.custom.dataviz.json",
+		"/C/Users/MICRODATA/Documents/EAO/ANTPSTORAGE/src/trunk/ANTP.StorageMap/ANTP.StorageMap.Web/Content/all.css",
+		"/C/BACKUP_BASE_27102017/DBContratos.sql",
+		"/C/BACKUP_BASE_27102017/db_huaura04112017.sql",
+		"/C/BACKUP_BASE_27102017/DB_29102017_ULTIMO.sql",
+		"/C/BACKUP_BASE_27102017/DB_HUAURA_27102017.sql",
+		"/C/BACKUP_BASE_27102017/BD_HUAURA30_10_2017.sql",
+		"/C/BACKUP_BASE_27102017/DB_29_10_2017.sql",
+		"/C/BACKUP_BASE_27102017/SIRH_20102017.sql",
+		"/C/BACKUP BASE 27102017/DB_HUAURA_27102017.sql",
+		"/C/Documentos Huaura/aaaaaaaaaa/DB_SIRH.sql",
+		"/C/Users/MICRODATA/Desktop/SP_HUAURA_25102017.sql",
+		"/C/Users/MICRODATA/Desktop/DB_25102017_2013/DB_25102017_2013.sql",
+		"/C/Users/MICRODATA/Downloads/UnitTypeViewController_671.js",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/doc/PopupTemplate/people.js",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/doc/PopupTemplate/local-data.html",
+		"/C/ProgramData/MySQL/MySQL Server 5.7/my.ini",
+		"/C/Users/MICRODATA/Downloads/TMTIPO-INSERTSCRIPT.sql",
+		"/C/Users/MICRODATA/Downloads/UnitTypeController.js",
+		"/C/ProgramData/MySQL/MySQL Server 5.7/my - backup_20102017_1635.ini",
+		"/C/ProgramData/MySQL/MySQL Server 5.7/Data/auto.cnf",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/02102017_1905_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/21092017_1840_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/18092017_1553_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/14092017_1928_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/12092017_1558_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/08092017_1857_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/doc/lopbalanza.sql",
+		"/C/Users/MICRODATA/Downloads/Delete/Index.html",
+		"/C/Users/MICRODATA/Downloads/Delete/WholeChat",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/01092017_1505_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/29082017_1535_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/28082017_1552_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/example/consoleexample/EjemploConsola/ElPequenhoYLaNena/ElPequenhoYLaNena.csproj",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/example/consoleexample/EjemploConsola/EjemploConsola.sln",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/example/consoleexample/EjemploConsola/ExampleConsole/ExampleConsole.csproj",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/22082017_1201_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/19082017_1908_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/18082017_1900_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/16082017_1313_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/doc/Example/Index.html",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/16082017_1737_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/14082017_0959_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/08082017_1822_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/08082017_0959_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Downloads/LPOMVCApp.PublishSettings",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/31072017_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/27072017_1805_LOCAL_AZURE_Database.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/06072017_1915_LOCAL_AZURE_Database.sql",
+		"/C/Shared/Daniel/sirh 20170725-",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/24072017_0953_LOCAL_AZURE_Database,sql.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/v0/LPO.Operations/LPO.Operations.Web/Controllers/Temporal/ReportViewerView.cshtml",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src/trunk/templateLPO/TelerikMvcApp1/Global.asax",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src/trunk/templateLPO/TelerikMvcApp1/TelerikMvcApp1.csproj",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src/trunk/templateLPO/TelerikMvcApp1/TelerikMvcApp1.csproj.user",
+		"/C/Users/MICRODATA/Desktop/Inconveniente01Francesca",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/v0/templateLPO/templateLPO.sln",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/v0/templateLPO/LPO.Operations.Core/LPO.Operations.Core.csproj",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/v0/templateLPO/LPO.Operations.Infrastructure/LPO.Operations.Infrastructure.csproj",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/v0/templateLPO/LPO.Operations.Web/LPO.Operations.Web.csproj",
+		"/C/Program Files (x86)/Telerik/Reporting R1 2017/Report Designer/Telerik.ReportDesigner.exe.config",
+		"/C/Program Files (x86)/Telerik/Reporting R1 2017/Examples/Data/AdventureWorks OLTP/instawdb.sql",
+		"/C/Users/MICRODATA/Documents/scada 20170714",
+		"/C/Shared/Daniel/sirh 20170707-",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote_topublish/trunk/scripts/migrationscripts/DB11072017_1137.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src/trunk/scripts/migration/03072017_1718_MigrationScripts.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/06072017_1200_LOCAL_AZURE_DatabaseMigration.sql",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src0_remote/trunk/scripts/migrationscripts/06072017_1126_INSERTS_TMTIPO_ESOP.sql",
+		"/C/Shared/Daniel/sirh 20170705-",
+		"/C/Users/MICRODATA/Documents/EAO/LPO/src/trunk/templateLPO/TelerikMvcApp1/Views/Operaciones/JuntaOperaciones.cshtml",
+		"/C/Users/MICRODATA/Documents/sirh 20170628-",
+		"/C/Users/MICRODATA/Documents/sirh 20170627-",
+		"/C/Users/MICRODATA/Documents/sirh 20170623-",
+		"/C/Users/MICRODATA/Documents/sirh 20170621-",
+		"/C/Users/MICRODATA/Documents/sirh 20170615-",
+		"/C/Users/MICRODATA/Documents/sirh 20170614-",
+		"/C/Users/MICRODATA/Documents/sirh 20170613-",
+		"/C/Users/MICRODATA/Documents/sirh 20170609-",
+		"/C/Users/MICRODATA/Documents/scada 20170607-",
+		"/C/Users/MICRODATA/Documents/scada 20170602",
+		"/C/Users/MICRODATA/Documents/scada 20170601",
+		"/C/Users/MICRODATA/Documents/scada 20170531",
+		"/C/Users/MICRODATA/Documents/scada 20170530",
+		"/C/Users/MICRODATA/Documents/2",
+		"/C/Users/MICRODATA/Documents/1",
+		"/C/Users/MICRODATA/Documents/MD_Pamela/NCT_Trafico/Trafico.Pruebas/ParticipantesSteps.cs"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\MICRODATA\\Documents\\EAO\\WA\\src\\demoDjango\\demoDjango"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
